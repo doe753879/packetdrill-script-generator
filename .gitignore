@@ -1,0 +1,17 @@
+error_packetdrill.log
+error_target.log
+success.log
+test.py
+plots/
+__pycache__/
+scripts/
+pico*/
+contiki*/
+lwip*/
+freertos*/
+to_test/
+*_output/
+Trace.dump
+test.pkt
+nohup.out
+stats.log
